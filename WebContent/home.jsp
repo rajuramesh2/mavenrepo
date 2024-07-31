@@ -21,6 +21,9 @@ table#nat{
 	String Year = request.getParameter("yop"); %>
 <table id ="nat">
 <tr>
+    <td colspan="2"><b>Student Form - 2024</b></td>
+  </tr>
+<tr>
 	<td>Full Name</td>
 	<td><%= name %></td>
 </tr>
