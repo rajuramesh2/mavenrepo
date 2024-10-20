@@ -10,12 +10,12 @@
 div.ex {
 	text-align: right width:300px;
 	padding: 10px;
-	border: 5px solid grey;
+	border: 5px solid red;
 	margin: 0px
 }
 </style>
 <body>
-	<h1>Student Registration Form - 2024</h1>
+	<h1 style="background-color:DodgerBlue;">Student Registration Form - 2024</h1>
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="with: 50%">
