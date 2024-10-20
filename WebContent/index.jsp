@@ -10,6 +10,13 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
 div.ex {
 	text-align: right width:300px;
 	padding: 10px;
@@ -23,8 +30,11 @@ footer {
   color: white;
 }
 </style>
-<body>
-	<h1 style="background-color:DodgerBlue;">Student Registration Form - 2024</h1>
+<body style="background-color:yellow;">
+<header>
+  <h2><h1 style="background-color:DodgerBlue;">Student Registration Form - 2024</h1></h2>
+</header>
+	
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="with: 50%">
@@ -61,7 +71,7 @@ footer {
 		</form>
 	</div>
 <footer>
-  <p>Footer</p>
+  <p>Web page developed by raju ramesh @ 2024</p>
 </footer>
 </body>
 </html>
