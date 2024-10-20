@@ -7,11 +7,20 @@
 <title>User Data</title>
 </head>
 <style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 div.ex {
 	text-align: right width:300px;
 	padding: 10px;
 	border: 5px solid red;
 	margin: 0px
+}
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
 }
 </style>
 <body>
@@ -51,5 +60,8 @@ div.ex {
 			<input type="submit" value="register"/>
 		</form>
 	</div>
+<footer>
+  <p>Footer</p>
+</footer>
 </body>
 </html>
