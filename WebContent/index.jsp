@@ -70,6 +70,7 @@ footer {
 			<input type="submit" value="register"/>
 		</form>
 	</div>
+<img src="linux usages in market.webp" alt="Italian Trulli">
 <footer>
   <p>Web page developed by raju ramesh @ 2024</p>
 </footer>
