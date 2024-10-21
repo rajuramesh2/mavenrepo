@@ -11,7 +11,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 header {
-  background-color: #666;
+  background-color: #6cfc;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -32,7 +32,7 @@ footer {
 </style>
 <body style="background-color:yellow;">
 <header>
-  <h2><h1 style="background-color:DodgerBlue;">Kuwait Civil ID Form - 2024<br>Ajay Civil is updated to 18-Visa</h1></h2>
+  <h2><h1 style="background-color:DodgerBlue;">Kuwait Civil ID Form - 2024<br>under constructions of web-site</h1></h2>
 </header>
 	
 	<div class="ex">
@@ -70,9 +70,9 @@ footer {
 			<input type="submit" value="register"/>
 		</form>
 	</div>
-<img src="kuwait.jpg" alt="Italian Trulli">
+<center> <img src="kuwait.jpg" alt="Italian Trulli"></center>
 <footer>
-  <p>Web page developed by raju ramesh @ 2024</p>
+  <p>Web page developed by copyrights(c)raju ramesh @ 2024</p>
 </footer>
 </body>
 </html>
